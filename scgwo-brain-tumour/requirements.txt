@@ -1,0 +1,12 @@
+# Kaggle images already provide most of these. Versions are minimums; the reported runs used the Kaggle GPU image.
+torch>=2.0
+torchvision>=0.15
+numpy
+scipy
+scikit-learn
+nibabel
+PyWavelets
+h5py
+opencv-python-headless
+matplotlib
+ultralytics>=8.2   # YOLO baselines only
